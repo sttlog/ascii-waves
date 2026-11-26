@@ -1,0 +1,5 @@
+{
+  "name": "ascii-waves",
+  "owner": { "name": "sttlog" },
+  "plugins": [{ "name": "ascii-waves", "source": "./" }]
+}
